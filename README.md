@@ -23,6 +23,16 @@ This repository documents my journey of learning Artificial Intelligence, Machin
 * Feature Scaling
 * Train-Test Split
 
+  
+##Feature Engineering
+Outlier Detection and Treatment
+Data Transformation
+Feature Construction (Feature Creation)
+Feature Selection
+Dimensionality Reduction
+Feature Engineering Pipelines (Pipeline & ColumnTransformer)
+End-to-End Feature Engineering Project  
+
 ### Machine Learning Fundamentals
 
 * Linear Regression
